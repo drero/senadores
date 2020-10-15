@@ -1,6 +1,8 @@
 # Senadores
 
-![](se1.gif | width=300)
+![(se1.gif | width=300px)]
+
+<img src="se1.gif" width="300px">
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
 
