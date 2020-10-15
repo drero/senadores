@@ -1,7 +1,7 @@
 # Senadores
-<p align="center">
+
 ![](se1.gif)
-</p>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
 
 ## Development server
